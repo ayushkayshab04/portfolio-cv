@@ -1,4 +1,9 @@
 /* id section */
+html {
+  scroll-behavior: smooth;
+}
+
+
 #title {
   background-color:black;
     color: white;
