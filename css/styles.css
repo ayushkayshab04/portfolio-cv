@@ -5,7 +5,7 @@ html {
 
 
 #title {
-  background-color:black;
+  background-color:#141414;
     color: white;
 }
 a{
@@ -92,7 +92,7 @@ right: 22%;
 
 #skills{
   padding: 7% 15%;
-  background-color: black;
+  background-color:#141414;
   color: white;
   position: relative;
 }
@@ -140,7 +140,7 @@ li{
 #qualification{
 
   text-align: center;
-  background-color: black;
+  background-color:#141414;
   color: #fff;
 }
 
@@ -163,7 +163,7 @@ li{
 }
 /* cta section */
 #cta{
-  background-color: black;
+  background-color:#141414;
   text-align: center;
   padding: 7% 15%;
   color: white;
@@ -179,9 +179,7 @@ li{
 /* footer section */
 
 #footer{
-
- /* padding: 4% 8%; */
- background-color:black;
+ background-color:#141414;
  color:white;
  text-align: center;
 }
